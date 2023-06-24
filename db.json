@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Carson Walsh",
+      "id": 3
+    },
+    {
+      "name": "Napoleon",
+      "id": 4
+    },
+    {
+      "name": "Annie",
+      "id": 5
+    },
+    {
+      "name": "Alek Schmeler",
+      "id": 6
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
