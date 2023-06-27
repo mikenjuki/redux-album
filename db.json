@@ -11,12 +11,76 @@
     {
       "name": "Annie",
       "id": 5
-    },
-    {
-      "name": "Alek Schmeler",
-      "id": 6
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": 10,
+      "title": "Album 1",
+      "userId": 3
+    },
+    {
+      "userId": 3,
+      "title": "Rustic Granite Salad",
+      "id": 12
+    },
+    {
+      "userId": 5,
+      "title": "Generic Fresh Mouse",
+      "id": 15
+    },
+    {
+      "userId": 5,
+      "title": "Electronic Concrete Ball",
+      "id": 20
+    },
+    {
+      "userId": 4,
+      "title": "Recycled Frozen Pants",
+      "id": 22
+    },
+    {
+      "userId": 3,
+      "title": "Awesome Bronze Car",
+      "id": 23
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "title": "Refined Fresh Keyboard",
+      "url": "https://picsum.photos/seed/EZvUe79A2v/640/480",
+      "id": 1
+    },
+    {
+      "albumId": 10,
+      "title": "Small Cotton Car",
+      "url": "https://picsum.photos/seed/GRtLL3/640/480",
+      "id": 3
+    },
+    {
+      "albumId": 10,
+      "title": "Rustic Frozen Chair",
+      "url": "https://picsum.photos/seed/7SqKNkDNpy/640/480",
+      "id": 5
+    },
+    {
+      "albumId": 10,
+      "title": "Licensed Wooden Chair",
+      "url": "https://picsum.photos/seed/ZqG0bP/640/480",
+      "id": 6
+    },
+    {
+      "albumId": 10,
+      "title": "Handmade Steel Cheese",
+      "url": "https://picsum.photos/seed/H6HtNFVtv/640/480",
+      "id": 7
+    },
+    {
+      "albumId": 10,
+      "title": "Luxurious Fresh Sausages",
+      "url": "https://picsum.photos/seed/VcWuqQ/640/480",
+      "id": 8
+    }
+  ]
 }
